@@ -26,7 +26,7 @@ TUNNELCHECK=$(netstat -ntl | grep ":5000")
 ### 'pusher' account must have Select and Lock Tables privileges
 
 MUSER="pusher"
-MPASS="7Miss429~"
+MPASS="******"
 MHOST="localhost"
 MYSQL="$(which mysql)"
 MYSQLDUMP="$(which mysqldump)"
