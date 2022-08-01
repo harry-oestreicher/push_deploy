@@ -1,4 +1,4 @@
-$email = 'hoestreicher@ce9.uscourts.gov';
+$email = 'admin@email.com';
 $subject = 'Testing POST requests';
 $remote_ip = $_SERVER['REMOTE_ADDR'];
 $remote_host = $_SERVER["REMOTE_HOST"];
@@ -13,4 +13,3 @@ $message .= 'Method: ' . $method . "\n";
 $message .= 'Protocol: ' . $protocol . "\n";
 $message .= 'POST Vars: ' . $post_vars . "\n";
 if ($method == 'POST') mail($email, $subject, $message);
-
