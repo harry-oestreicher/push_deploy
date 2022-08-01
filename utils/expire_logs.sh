@@ -4,11 +4,11 @@
 ### EXPIRE HTTPD LOGS
 ##
 ##  Author:   Harry Oestreicher : 9th Circuit Executives Office
-##  Email:    hoestreicher@ce9.uscourts.gov
+##  Email:    harryo1968@gmail.com
 ##  Version:  1
 ##############################################################################
 
-EMAIL="hoestreicher@ce9.uscourts.gov"
+EMAIL="admin@email.com"
 SOURCE="/var/log/httpd"
 
 NOW=$(date +"%Y-%m-%d-%T")
@@ -21,4 +21,3 @@ for file in ${SOURCE}/*; do
 done
 
 exit
-
