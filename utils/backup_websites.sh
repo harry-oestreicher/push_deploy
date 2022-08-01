@@ -4,12 +4,12 @@
 ### BACKUP WEBSITES
 ##
 ##  Author:   Harry Oestreicher : 9th Circuit Executives Office
-##  Email:    hoestreicher@ce9.uscourts.gov
+##  Email:    harryo1968@gmail.com
 ##  Version:  1.1
 ##############################################################################
 
 ## Define Parameters
-#EMAIL="hoestreicher@ce9.uscourts.gov"
+#EMAIL="admin@email.com"
 MYSQLUSER="root"
 MYSQLPASS="0aksF429"
 MYSQLHOST="localhost"
