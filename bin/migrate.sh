@@ -2,7 +2,7 @@
 #
 # Script:   Migrate 2020
 # Author:   Harry Oestreicher
-# Email:    harryo1968@gmail.com
+# Email:    harry.oestreicher@gmail.com
 # Version:  2020-05-20
 # Notes:    This script will recieve staging sites from old platform
 #           and deploy them locally.

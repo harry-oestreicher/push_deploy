@@ -2,7 +2,7 @@
 #
 # Title:    TUNNEL CONTROLLER
 # Author:   Harry Oestreicher
-# Email:    harryo1968@gmail.com
+# Email:    harry.oestreicher@gmail.com
 # Version:  1.0 beta
 # Calling:  <this script> {open|close|status|pid}
 

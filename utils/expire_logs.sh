@@ -4,7 +4,7 @@
 ### EXPIRE HTTPD LOGS
 ##
 ##  Author:   Harry Oestreicher : 9th Circuit Executives Office
-##  Email:    harryo1968@gmail.com
+##  Email:    harry.oestreicher@gmail.com
 ##  Version:  1
 ##############################################################################
 

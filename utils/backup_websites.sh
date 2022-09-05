@@ -4,14 +4,14 @@
 ### BACKUP WEBSITES
 ##
 ##  Author:   Harry Oestreicher : 9th Circuit Executives Office
-##  Email:    harryo1968@gmail.com
+##  Email:    harry.oestreicher@gmail.com
 ##  Version:  1.1
 ##############################################################################
 
 ## Define Parameters
 #EMAIL="admin@email.com"
 MYSQLUSER="root"
-MYSQLPASS="0aksF429"
+MYSQLPASS="*******"
 MYSQLHOST="localhost"
 DBLIST=""
 
