@@ -1,7 +1,5 @@
 # Secure Synchronization for LAMP CMS Sytems
 
-### push>deploy
-
 ## Overview
 
 This repository contains files used to setup a staging environment for scheduled and on-demand content publishing. The application environment is a multi-homed LAMP stack, hosted on RedHat Enterprise Linux.  This package will use secure tunnel and jump host to push content to the public websites which reside in a DMZ.
