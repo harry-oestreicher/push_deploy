@@ -6,7 +6,7 @@
 
 This repository contains files used to setup a staging environment for scheduled and on-demand content publishing. The application environment is a multi-homed LAMP stack, hosted on RedHat Enterprise Linux.  This package will use secure tunnel and jump host to push content to the public websites which reside in a DMZ.
 
-Each client web app has an account and manages content changes on the staging environment. Loacl CRON jobs create an incremental backup of the file systems and a database snapshot. These two files are sent via encryted tunnel to the public server in the DMZ where they're extracted and deployed in place.  Basic on-way content push.
+Each client web app has an account and manages content changes on the staging environment. Local CRON jobs create an incremental MySQL backup of the file systems and a database snapshot. These two files are sent via encryted tunnel to the public server in the DMZ where they're extracted and deployed in place.  Basic on-way content push.
 
 ### Push >>> Deploy
 
